@@ -1,0 +1,595 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f4985/fast && /usr/bin/make -f CMakeFiles/cmTC_f4985.dir/build.make CMakeFiles/cmTC_f4985.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f4985.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_f4985.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_f4985
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f4985.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_f4985.dir/testCCompiler.c.o  -o cmTC_f4985 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_f4985.dir/build.make:87: cmTC_f4985] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_f4985/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e7b93/fast && /usr/bin/make -f CMakeFiles/cmTC_e7b93.dir/build.make CMakeFiles/cmTC_e7b93.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e7b93.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_e7b93.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_e7b93
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e7b93.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_e7b93.dir/testCCompiler.c.o  -o cmTC_e7b93 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_e7b93.dir/build.make:87: cmTC_e7b93] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e7b93/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_206e2/fast && /usr/bin/make -f CMakeFiles/cmTC_206e2.dir/build.make CMakeFiles/cmTC_206e2.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_206e2.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_206e2.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_206e2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_206e2.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_206e2.dir/testCCompiler.c.o  -o cmTC_206e2 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_206e2.dir/build.make:87: cmTC_206e2] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_206e2/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0d470/fast && /usr/bin/make -f CMakeFiles/cmTC_0d470.dir/build.make CMakeFiles/cmTC_0d470.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0d470.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_0d470.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_0d470
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0d470.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_0d470.dir/testCCompiler.c.o  -o cmTC_0d470 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_0d470.dir/build.make:87: cmTC_0d470] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0d470/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e9313/fast && /usr/bin/make -f CMakeFiles/cmTC_e9313.dir/build.make CMakeFiles/cmTC_e9313.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e9313.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_e9313.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_e9313
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e9313.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_e9313.dir/testCCompiler.c.o  -o cmTC_e9313 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_e9313.dir/build.make:87: cmTC_e9313] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e9313/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6aa42/fast && /usr/bin/make -f CMakeFiles/cmTC_6aa42.dir/build.make CMakeFiles/cmTC_6aa42.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6aa42.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_6aa42.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_6aa42
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6aa42.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_6aa42.dir/testCCompiler.c.o  -o cmTC_6aa42 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_6aa42.dir/build.make:87: cmTC_6aa42] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_6aa42/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c31ec/fast && /usr/bin/make -f CMakeFiles/cmTC_c31ec.dir/build.make CMakeFiles/cmTC_c31ec.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c31ec.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_c31ec.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_c31ec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c31ec.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_c31ec.dir/testCCompiler.c.o  -o cmTC_c31ec 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_c31ec.dir/build.make:87: cmTC_c31ec] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_c31ec/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2fcda/fast && /usr/bin/make -f CMakeFiles/cmTC_2fcda.dir/build.make CMakeFiles/cmTC_2fcda.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2fcda.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_2fcda.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_2fcda
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2fcda.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_2fcda.dir/testCCompiler.c.o  -o cmTC_2fcda 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_2fcda.dir/build.make:87: cmTC_2fcda] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_2fcda/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0d77c/fast && /usr/bin/make -f CMakeFiles/cmTC_0d77c.dir/build.make CMakeFiles/cmTC_0d77c.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0d77c.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_0d77c.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_0d77c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0d77c.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_0d77c.dir/testCCompiler.c.o  -o cmTC_0d77c 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_0d77c.dir/build.make:87: cmTC_0d77c] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0d77c/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0e255/fast && /usr/bin/make -f CMakeFiles/cmTC_0e255.dir/build.make CMakeFiles/cmTC_0e255.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0e255.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_0e255.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_0e255
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0e255.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_0e255.dir/testCCompiler.c.o  -o cmTC_0e255 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_0e255.dir/build.make:87: cmTC_0e255] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0e255/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_48708/fast && /usr/bin/make -f CMakeFiles/cmTC_48708.dir/build.make CMakeFiles/cmTC_48708.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_48708.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_48708.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_48708
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_48708.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_48708.dir/testCCompiler.c.o  -o cmTC_48708 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_48708.dir/build.make:87: cmTC_48708] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_48708/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e6d53/fast && /usr/bin/make -f CMakeFiles/cmTC_e6d53.dir/build.make CMakeFiles/cmTC_e6d53.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e6d53.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_e6d53.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_e6d53
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e6d53.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_e6d53.dir/testCCompiler.c.o  -o cmTC_e6d53 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_e6d53.dir/build.make:87: cmTC_e6d53] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e6d53/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1e04a/fast && /usr/bin/make -f CMakeFiles/cmTC_1e04a.dir/build.make CMakeFiles/cmTC_1e04a.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1e04a.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_1e04a.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_1e04a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1e04a.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_1e04a.dir/testCCompiler.c.o  -o cmTC_1e04a 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_1e04a.dir/build.make:87: cmTC_1e04a] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_1e04a/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_670a7/fast && /usr/bin/make -f CMakeFiles/cmTC_670a7.dir/build.make CMakeFiles/cmTC_670a7.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_670a7.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_670a7.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_670a7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_670a7.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_670a7.dir/testCCompiler.c.o  -o cmTC_670a7 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_670a7.dir/build.make:87: cmTC_670a7] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_670a7/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b454d/fast && /usr/bin/make -f CMakeFiles/cmTC_b454d.dir/build.make CMakeFiles/cmTC_b454d.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b454d.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_b454d.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_b454d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b454d.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_b454d.dir/testCCompiler.c.o  -o cmTC_b454d 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_b454d.dir/build.make:87: cmTC_b454d] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_b454d/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_be693/fast && /usr/bin/make -f CMakeFiles/cmTC_be693.dir/build.make CMakeFiles/cmTC_be693.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_be693.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_be693.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_be693
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be693.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_be693.dir/testCCompiler.c.o  -o cmTC_be693 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_be693.dir/build.make:87: cmTC_be693] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_be693/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7caa3/fast && /usr/bin/make -f CMakeFiles/cmTC_7caa3.dir/build.make CMakeFiles/cmTC_7caa3.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7caa3.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_7caa3.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_7caa3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7caa3.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_7caa3.dir/testCCompiler.c.o  -o cmTC_7caa3 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_7caa3.dir/build.make:87: cmTC_7caa3] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_7caa3/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_26a70/fast && /usr/bin/make -f CMakeFiles/cmTC_26a70.dir/build.make CMakeFiles/cmTC_26a70.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_26a70.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_26a70.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_26a70
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_26a70.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_26a70.dir/testCCompiler.c.o  -o cmTC_26a70 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_26a70.dir/build.make:87: cmTC_26a70] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_26a70/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5d6ef/fast && /usr/bin/make -f CMakeFiles/cmTC_5d6ef.dir/build.make CMakeFiles/cmTC_5d6ef.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5d6ef.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_5d6ef.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_5d6ef
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5d6ef.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_5d6ef.dir/testCCompiler.c.o  -o cmTC_5d6ef 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_5d6ef.dir/build.make:87: cmTC_5d6ef] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_5d6ef/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a2e8d/fast && /usr/bin/make -f CMakeFiles/cmTC_a2e8d.dir/build.make CMakeFiles/cmTC_a2e8d.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a2e8d.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_a2e8d.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_a2e8d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2e8d.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_a2e8d.dir/testCCompiler.c.o  -o cmTC_a2e8d 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_a2e8d.dir/build.make:87: cmTC_a2e8d] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_a2e8d/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1c0e5/fast && /usr/bin/make -f CMakeFiles/cmTC_1c0e5.dir/build.make CMakeFiles/cmTC_1c0e5.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1c0e5.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_1c0e5.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_1c0e5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1c0e5.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_1c0e5.dir/testCCompiler.c.o  -o cmTC_1c0e5 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_1c0e5.dir/build.make:87: cmTC_1c0e5] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_1c0e5/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_be937/fast && /usr/bin/make -f CMakeFiles/cmTC_be937.dir/build.make CMakeFiles/cmTC_be937.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_be937.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_be937.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_be937
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be937.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_be937.dir/testCCompiler.c.o  -o cmTC_be937 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_be937.dir/build.make:87: cmTC_be937] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_be937/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0865c/fast && /usr/bin/make -f CMakeFiles/cmTC_0865c.dir/build.make CMakeFiles/cmTC_0865c.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0865c.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_0865c.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_0865c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0865c.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_0865c.dir/testCCompiler.c.o  -o cmTC_0865c 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_0865c.dir/build.make:87: cmTC_0865c] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0865c/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5a7b8/fast && /usr/bin/make -f CMakeFiles/cmTC_5a7b8.dir/build.make CMakeFiles/cmTC_5a7b8.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5a7b8.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_5a7b8.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_5a7b8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5a7b8.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_5a7b8.dir/testCCompiler.c.o  -o cmTC_5a7b8 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_5a7b8.dir/build.make:87: cmTC_5a7b8] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_5a7b8/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2bf2d/fast && /usr/bin/make -f CMakeFiles/cmTC_2bf2d.dir/build.make CMakeFiles/cmTC_2bf2d.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2bf2d.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_2bf2d.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_2bf2d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2bf2d.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_2bf2d.dir/testCCompiler.c.o  -o cmTC_2bf2d 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_2bf2d.dir/build.make:87: cmTC_2bf2d] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_2bf2d/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3fab8/fast && /usr/bin/make -f CMakeFiles/cmTC_3fab8.dir/build.make CMakeFiles/cmTC_3fab8.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3fab8.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_3fab8.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_3fab8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3fab8.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_3fab8.dir/testCCompiler.c.o  -o cmTC_3fab8 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_3fab8.dir/build.make:87: cmTC_3fab8] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_3fab8/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6cb23/fast && /usr/bin/make -f CMakeFiles/cmTC_6cb23.dir/build.make CMakeFiles/cmTC_6cb23.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6cb23.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_6cb23.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_6cb23
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6cb23.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_6cb23.dir/testCCompiler.c.o  -o cmTC_6cb23 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_6cb23.dir/build.make:87: cmTC_6cb23] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_6cb23/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_875d4/fast && /usr/bin/make -f CMakeFiles/cmTC_875d4.dir/build.make CMakeFiles/cmTC_875d4.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_875d4.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_875d4.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_875d4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_875d4.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_875d4.dir/testCCompiler.c.o  -o cmTC_875d4 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_875d4.dir/build.make:87: cmTC_875d4] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_875d4/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2575b/fast && /usr/bin/make -f CMakeFiles/cmTC_2575b.dir/build.make CMakeFiles/cmTC_2575b.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2575b.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_2575b.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_2575b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2575b.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_2575b.dir/testCCompiler.c.o  -o cmTC_2575b 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_2575b.dir/build.make:87: cmTC_2575b] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_2575b/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_156ec/fast && /usr/bin/make -f CMakeFiles/cmTC_156ec.dir/build.make CMakeFiles/cmTC_156ec.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_156ec.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_156ec.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_156ec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_156ec.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_156ec.dir/testCCompiler.c.o  -o cmTC_156ec 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_156ec.dir/build.make:87: cmTC_156ec] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_156ec/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_80450/fast && /usr/bin/make -f CMakeFiles/cmTC_80450.dir/build.make CMakeFiles/cmTC_80450.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_80450.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_80450.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_80450
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_80450.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_80450.dir/testCCompiler.c.o  -o cmTC_80450 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_80450.dir/build.make:87: cmTC_80450] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_80450/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_23e70/fast && /usr/bin/make -f CMakeFiles/cmTC_23e70.dir/build.make CMakeFiles/cmTC_23e70.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_23e70.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_23e70.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_23e70
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_23e70.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_23e70.dir/testCCompiler.c.o  -o cmTC_23e70 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_23e70.dir/build.make:87: cmTC_23e70] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_23e70/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9326b/fast && /usr/bin/make -f CMakeFiles/cmTC_9326b.dir/build.make CMakeFiles/cmTC_9326b.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9326b.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_9326b.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_9326b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9326b.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_9326b.dir/testCCompiler.c.o  -o cmTC_9326b 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_9326b.dir/build.make:87: cmTC_9326b] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_9326b/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_db7db/fast && /usr/bin/make -f CMakeFiles/cmTC_db7db.dir/build.make CMakeFiles/cmTC_db7db.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_db7db.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_db7db.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_db7db
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_db7db.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_db7db.dir/testCCompiler.c.o  -o cmTC_db7db 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_db7db.dir/build.make:87: cmTC_db7db] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_db7db/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0b373/fast && /usr/bin/make -f CMakeFiles/cmTC_0b373.dir/build.make CMakeFiles/cmTC_0b373.dir/build
+make[1]: Entering directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0b373.dir/testCCompiler.c.o
+/mnt/c/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_0b373.dir/testCCompiler.c.o   -c /home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_0b373
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0b373.dir/link.txt --verbose=1
+/mnt/c/MinGW/bin/gcc.exe      -rdynamic CMakeFiles/cmTC_0b373.dir/testCCompiler.c.o  -o cmTC_0b373 
+gcc.exe: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_0b373.dir/build.make:87: cmTC_0b373] Error 1
+make[1]: Leaving directory '/home/xangusx/tel_ws/src/race/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0b373/fast] Error 2
+
+
+

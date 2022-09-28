@@ -1,0 +1,84 @@
+<launch>
+    <node pkg="ekf_odom" type="wheel_odom" name="wheel_odom" />
+    <node pkg="ekf_odom" type="imu" name="imu" />
+
+<!-- efk wheel odom -->
+    <node pkg="robot_localization" type="ekf_localization_node" name="robot_localization_ekf_node_odom" clear_params="true">
+
+        <param name="frequency" value="10." />  
+        <param name="sensor_timeout" value="0.2" />  
+        <param name="two_d_mode" value="true" />
+        <param name="publish_tf" value="true" />
+        <param name="print_diagnostics" value="true" />
+
+        <!-- <param name="map_frame" value="map" /> -->
+        <param name="odom_frame" value="odom_frame" />
+        <param name="base_link_frame" value="base_link" />
+        <param name="world_frame" value="odom_frame" />
+
+
+        <param name="odom0" value="wheel_odom" />
+        <param name="odom0_differential" value="false"/>
+        <param name="odom0_relative" value="false"/>
+        <param name="odom0_queue_size" value="2"/>
+        <param name="odom0_pose_rejection_threshold" value="5"/>
+        <param name="odom0_twist_rejection_threshold" value="1"/>
+        <param name="odom0_nodelay" value="false"/>
+        <rosparam param="odom0_config">[true, true, false, 
+                                        false, false, true,
+                                        true, true, false,
+                                        false, false, true,
+                                        false, false, false]</rosparam>
+
+        <param name="imu0" value="/imu/data"/>
+        <rosparam param="imu0_config">[false, false, false,
+                                        false, false, false,
+                                        false, false, false,
+                                        false, false, true,
+                                        false, false, false]</rosparam>                  
+        <param name="imu0_differential" value="false"/>
+        <param name="imu0_remove_gravitational_acceleration" value="true"/>
+
+        <param name="use_control" value="true"/>
+        <param name="stamped_control" value="false"/>
+        <param name="control_timeout" value="0.2"/>
+        <rosparam param="control_config">[true, true, false, false, false, true]</rosparam>
+        <!-- <rosparam param="acceleration_limits">[0.02, 0.02, 0.0, 0.0, 0.0, 0.02]</rosparam>
+        <rosparam param="deceleration_limits">[0.02, 0.02, 0.0, 0.0, 0.0, 0.02]</rosparam> -->
+
+        <rosparam param="process_noise_covariance">[0.05, 0,    0,    0,    0,    0,    0,     0,     0,    0,    0,    0,    0,    0,    0,
+                                                    0,    0.05, 0,    0,    0,    0,    0,     0,     0,    0,    0,    0,    0,    0,    0,
+                                                    0,    0,    0.06, 0,    0,    0,    0,     0,     0,    0,    0,    0,    0,    0,    0,
+                                                    0,    0,    0,    0.03, 0,    0,    0,     0,     0,    0,    0,    0,    0,    0,    0,
+                                                    0,    0,    0,    0,    0.03, 0,    0,     0,     0,    0,    0,    0,    0,    0,    0,
+                                                    0,    0,    0,    0,    0,    0.06, 0,     0,     0,    0,    0,    0,    0,    0,    0,
+                                                    0,    0,    0,    0,    0,    0,    0.025, 0,     0,    0,    0,    0,    0,    0,    0,
+                                                    0,    0,    0,    0,    0,    0,    0,     0.025, 0,    0,    0,    0,    0,    0,    0,
+                                                    0,    0,    0,    0,    0,    0,    0,     0,     0.04, 0,    0,    0,    0,    0,    0,
+                                                    0,    0,    0,    0,    0,    0,    0,     0,     0,    0.01, 0,    0,    0,    0,    0,
+                                                    0,    0,    0,    0,    0,    0,    0,     0,     0,    0,    0.01, 0,    0,    0,    0,
+                                                    0,    0,    0,    0,    0,    0,    0,     0,     0,    0,    0,    0.02, 0,    0,    0,
+                                                    0,    0,    0,    0,    0,    0,    0,     0,     0,    0,    0,    0,    0.01, 0,    0,
+                                                    0,    0,    0,    0,    0,    0,    0,     0,     0,    0,    0,    0,    0,    0.01, 0,
+                                                    0,    0,    0,    0,    0,    0,    0,     0,     0,    0,    0,    0,    0,    0,    0.015]</rosparam>
+
+        <rosparam param="initial_estimate_covariance">[1e-9, 0,    0,    0,    0,    0,    0,    0,    0,    0,     0,     0,     0,    0,    0,
+                                                       0,    1e-9, 0,    0,    0,    0,    0,    0,    0,    0,     0,     0,     0,    0,    0,
+                                                       0,    0,    1e+9, 0,    0,    0,    0,    0,    0,    0,     0,     0,     0,    0,    0,
+                                                       0,    0,    0,    1e+9, 0,    0,    0,    0,    0,    0,     0,     0,     0,    0,    0,
+                                                       0,    0,    0,    0,    1e+9, 0,    0,    0,    0,    0,     0,     0,     0,    0,    0,
+                                                       0,    0,    0,    0,    0,    1e-9, 0,    0,    0,    0,     0,     0,     0,    0,    0,
+                                                       0,    0,    0,    0,    0,    0,    1e-9, 0,    0,    0,     0,     0,     0,    0,    0,
+                                                       0,    0,    0,    0,    0,    0,    0,    1e-9, 0,    0,     0,     0,     0,    0,    0,
+                                                       0,    0,    0,    0,    0,    0,    0,    0,    1e+9, 0,     0,     0,     0,    0,    0,
+                                                       0,    0,    0,    0,    0,    0,    0,    0,    0,    1e+9,  0,     0,     0,    0,    0,
+                                                       0,    0,    0,    0,    0,    0,    0,    0,    0,    0,     1e+9,  0,     0,    0,    0,
+                                                       0,    0,    0,    0,    0,    0,    0,    0,    0,    0,     0,     1e-9,  0,    0,    0,
+                                                       0,    0,    0,    0,    0,    0,    0,    0,    0,    0,     0,     0,     1e+9, 0,    0,
+                                                       0,    0,    0,    0,    0,    0,    0,    0,    0,    0,     0,     0,     0,    1e+9, 0,
+                                                       0,    0,    0,    0,    0,    0,    0,    0,    0,    0,     0,     0,     0,    0,    1e+9]</rosparam>
+    </node>
+
+
+
+</launch>

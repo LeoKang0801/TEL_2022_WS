@@ -1,0 +1,4 @@
+<launch>
+    <node name= "wheel_odom" pkg="race" type="wheel_odom" output="screen" required="true"/>
+    <node name= "strategy" pkg="race" type="main" output="screen" required="true"/>
+</launch>
